@@ -17,6 +17,7 @@
         "body-parser": "^1.18.3",
         "express": "^4.16.4",
         "heroku": "^7.18.4",
+        "lodash": "^4.17.11",
         "mongodb": "^2.2.36",
         "mongoose": "^5.3.8"
     },

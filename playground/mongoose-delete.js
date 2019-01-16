@@ -12,7 +12,6 @@ const { Artist } = require('./../server/models/artist');
 
 // Todo.findOneAndRemove
 // Todo.findByIdAndRemove
-Todo
 
 Todo.findByIdAndRemove('5be31d181b1b68e0c16be703').then((todo) => {
     console.log(todo);
